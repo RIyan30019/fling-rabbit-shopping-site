@@ -6,7 +6,6 @@ Flying Rabbit is an online shopping platform where you can have tons of options 
 
 To install this project you need to install npm install and all dependencies.
 
-```
 
 ## APPs 
 
